@@ -1,0 +1,2050 @@
+- name: Gaeilge Chonamara
+  url: https://gaeilgechonamara.com/
+  type: blog
+  note: "Blog about Connemara Irish."
+  associated-entities:
+    - Galaxyrocker
+    - Is Linne Amáireach
+  dialect: 
+    - Connacht
+  host: self
+  tags:
+    - Dialectal
+    - Connemara
+    - Niche
+
+- name: Celtic Languages Wiki
+  url: https://www.celtic-languages.org/Main_Page
+  type: educational-resource
+  note: "Wiki associated with the Celtic Languages Discord Server."
+  associated-entities: 
+    - Celtic Languages Discord Server
+    - Celtic Languages
+    - Kilkenny Irish
+    - Silmeth
+    - Muiris
+  host: self
+  dialect: 
+    - Ulster
+    - Connacht
+    - Leinster
+    - Munster
+    - Historical
+  tags:
+    - Community
+    - Educational
+    - Grammar
+    - Dialectal
+    - Wiki
+    - Core
+    - Old Irish
+    - Middle Irish
+    - Classical Gaelic
+    - Early Modern Irish
+
+- name: Celtic Languages 
+  url: https://discord.gg/ekaTPJn656
+  type: community
+  host: Discord
+  note: "Discord server for the Celtic Languages."
+  dialect: 
+    - Ulster
+    - Connacht
+    - Leinster
+    - Munster
+    - Historical
+  associated-entities:
+    - Silmeth
+    - Muiris
+    - Celtic Languages Wiki
+  tags:
+    - Community
+    - Educational
+    - Dialectal
+    - Online
+    - Social
+    - Old Irish
+    - Classical Gaelic
+
+- name: Kilkenny Irish
+  url: https://gaeiligchillechoinnigh.blogspot.com/
+  archive: https://archive.is/KbIfP
+  type: blog
+  host: Blogspot
+  note: "Blog about Kilkenny Irish."
+  dialect: 
+    - Leinster
+  associated-entities: 
+    - Celtic Languages Discord Server
+    - Celtic Languages Wiki
+  tags:
+    - Dialectal
+    - Kilkenny
+    - Niche
+    - Historical
+    
+- name: Tóin Gaeilge
+  url: https://toingaeilge.com/
+  archive: https://archive.is/G1XKE
+  type: educational-resource
+  host: self
+  note: "Website with grammar, etymology and other information."
+  associated-entities:
+  tags:
+    - Educational
+    - Grammar
+    - Blog
+
+- name: Tuairisc
+  url: https://tuairisc.ie/
+  archive: https://archive.is/QSDoC
+  type: media
+  note: "Irish language news outlet."
+  host: self
+  associated-entities: 
+    - Seán Tadhg Ó Gairbhí
+    - Méabh Ní Thuathaláin
+    - Pádraic Ó Ciardha
+    - Ciarán Ó Súilleabháin
+    - Eoin Ó Murchú 
+    - Dara Ó Cinnéide
+    - Cathal Mac Coille
+    - Desmond Fennell
+  tags:
+    - News
+    - Institutional
+
+
+- name: /r/gaeilge
+  url: https://www.reddit.com/r/gaeilge/
+  type: community
+  note: "Irish language subreddit."
+  host: reddit
+  associated-entities:
+    - drfre
+    - poppadomnom
+    - Galaxyrocker
+    - cavedave
+  tags:
+    - Community
+    - Educational
+    - Forum
+    - Social
+    - Online
+
+- name: Irish Language Forum
+  url: https://www.irishlanguageforum.com/
+  type: community
+  note: "Long running forum for learning the Irish language."
+  host: self
+  associated-entities:
+    - Lughaidh
+    - Annexe Dico Irlandais
+  tags:
+    - Forum
+    - Community
+    - Educational
+    - Grammar
+    - Online
+
+- name: Daltaí na Gaeilge
+  url: https://daltai.com/
+  type: community
+  host: self
+  associated-entities:
+    - Lughaidh
+    - Annexe Dico Irlandais
+  note: "Irish language learning organisation with an active and long running forum."
+  tags:
+    - Forum
+    - Community
+    - Educational
+    - Institutional
+    - Grammar
+    - Online
+
+- name: Ainm.ie
+  url: https://www.ainm.ie/
+  type: archive
+  host: self
+  associated-entities:
+    - Dublin City University
+    - Gaois.ie
+    - Cló Iar-Chonnacht
+    - Léamh.org
+    - Irish Government
+  note: "Biographical archive of individuals associated with the Irish language."
+  tags:
+    - Institutional
+    - Educational
+    - Archival
+    - Cultural
+
+- name: Logainm.ie
+  url: https://www.logainm.ie/
+  type: archive
+  host: self
+  associated-entities:
+    - Irish Government
+    - Dublin City University
+    - Gaois.ie
+    - Téarma.ie
+    - Doegen.ie
+  note: "Archive of Irish language placenames."
+  tags:
+    - Institutional
+    - Educational
+    - Archival
+    - Cultural
+
+- name: Téarma.ie
+  url: https://www.tearma.ie/
+  type: reference
+  host: self
+  associated-entities:
+    - Gaois.ie
+    - Logainm.ie
+    - Teanglann
+    - Foras na Gaeilge
+  note: "National terminology database for Irish"
+  tags:
+    - Institutional
+    - Educational
+    - Dictionary
+    - Core
+
+- name: Gaois.ie
+  url: https://www.gaois.ie/
+  type: institution
+  host: self
+  associated-entities:
+    - Logainm.ie
+    - Ainm.ie
+    - Dublin City University
+    - Irish Government
+    - Foras na Gaeilge
+    - Cló Iar-Chonnacht
+    - Dúchas.ie
+    - Canúint.ie
+    - Corpas.ie
+    - Téarma.ie
+    - Ainm.ie
+  note: "Research group associated with DCU that develops resources for the Irish language."
+  tags:
+    - Institutional
+    - Educational
+    - Research
+
+- name: Canúint.ie
+  url: https://www.canuint.ie/
+  type: archive
+  host: self
+  associated-entities:
+    - Dublin City University
+    - Gaois.ie
+    - RTÉ
+  note: "Recordings of dialectal Irish."
+  dialect: 
+    - Ulster
+    - Connacht
+    - Munster
+    - Leinster
+  tags:
+    - Institutional
+    - Educational
+    - Research
+    - Dialectal
+
+- name: Dúchas.ie
+  url: https://www.duchas.ie/en
+  type: archive
+  host: self
+  associated-entities:
+    - Gaois.ie
+    - University College Dublin
+    - Dublin City University
+    - Irish Government
+  dialect:
+    - Ulster
+    - Connacht
+    - Leinster
+    - Munster
+  note: "Database of Irish folklore and other items of historical interest."
+  tags: 
+    - Institutional
+    - Educational
+    - Research
+    - Dialectal
+    - Cultural
+    - Core
+    - Folklore
+
+- name: Corpas.ie
+  url: https://www.corpas.ie/
+  type: archive
+  host: self
+  associated-entities:
+    - Gaois.ie
+    - Dublin City University
+    - Irish Government
+  dialect: 
+    - Ulster
+    - Connacht
+    - Munster
+    - Leinster
+  note: "A corpus of written and spoken Irish texts from 2000 onwards."
+  tags:
+    - Institutional
+    - Educational
+    - Research
+    - Dialectal
+    - Cultural
+    - Corpus
+    - Literary
+
+- name: Dlús 
+  url: https://pobailura.wordpress.com/
+  type: blog
+  associated-entities: 
+    - Ciarán Dunbar
+  host: Wordpress
+  note: "An online book of interviews with Irish speakers."
+  tags: 
+    - Blog
+    - Cultural
+
+- name: Rathlin and Glens Irish 
+  url: https://rathlingaelic.blogspot.com/
+  type: blog
+  host: Blogspot
+  associated-entities: 
+    - Ciarán Dunbar
+  dialect:
+    - Ulster
+  note: "A blog regarding the extinct dialect of Rathlin Gaelic."
+  tags:
+    - Blog
+    - Dialectal
+    - Rathlin
+    - Antrim
+    - Niche
+
+- name: Dublin Irish
+  url: https://dublingaelic.blogspot.com/
+  type: blog
+  host: Blogspot
+  associated-entities: 
+  dialect: 
+    - Leinster
+  note: "A blog regarding the extinct dialect of Dublin Irish."
+  tags:
+    - Blog
+    - Dialectal
+    - Niche
+    - Dublin
+
+- name: Ráidhteachas an Fheadha
+  url: https://irishofthefews.blogspot.com/
+  type: blog
+  associated-entities: 
+  host: Blogspot
+  dialect: 
+    - Ulster
+  note: "A blog regarding the extinct dialect of Irish spoken in The Fews, County Armagh"
+  tags:
+    - Blog
+    - Dialectal
+    - Niche
+    - Armagh
+
+- name: Cluain Daimh Gaelach
+  url: https://cluaindaimh.blogspot.com/
+  type: blog
+  associated-entities: 
+    - Ciarán Dunbar
+  host: Blogspot
+  dialect: 
+    - Ulster
+  note: "Blog on the extinct dialect of Irish of Clonduff, County Down."
+  tags:
+    - Blog
+    - Dialectal
+    - Niche
+    - Down
+
+- name: Gaeltacht Thír Eoghain
+  url: https://tyronegaeltacht.blogspot.com/
+  type: blog
+  associated-entities: 
+  host: Blogspot
+  dialect: 
+    - Ulster
+  note: "Blog on the extinct dialect of Irish in County Tyrone."
+  tags:
+    - Blog
+    - Dialectal
+    - Niche
+    - Tyrone
+    - Historical
+
+- name: Gaeltacht na Spéiríní
+  url: https://gaeltachtnaspeirini.blogspot.com/
+  type: blog
+  associated-entities: 
+    - Ciarán Dunbar
+  host: Blogspot
+  dialect: 
+    - Ulster
+  note: " Blog on the extinct dialect of Irish in the Sperrins, Counties Derry and Tyrone."
+  tags:
+    - Blog
+    - Dialectal
+    - Niche
+    - Derry
+    - Tyrone
+    - Sperrins
+    - Historical
+
+- name: Doegen.ie
+  url: https://doegen.ie/
+  type: archive
+  host: self
+  dialect: 
+    - Ulster
+    - Leinster
+    - Munster
+    - Connacht
+  associated-entities:
+    - Wilhelm Doegen 
+    - Royal Irish Academy
+    - Logainm.ie
+    - Irish Government
+  note: "Archives of audio recordings of Irish speakers of various dialects, including those extinct, from the early 1900s."
+  tags: 
+    - Media
+    - Audio
+    - Dialectal
+    - Core
+
+- name: Teanglann
+  url: https://www.teanglann.ie/en/
+  type: reference
+  host: self
+  associated-entities:
+    - Foras na Gaeilge
+    - Téarma.ie
+  note: "Several dictionaries of the Irish language."
+  tags:
+    - Institutional
+    - Educational
+    - Dictionary
+    - Core
+
+- name: Foclóir 
+  url: https://www.focloir.ie/
+  type: reference
+  host: self
+  associated-entities:
+    - Foras na Gaeilge
+  note: "Dictionary of the Irish language."
+  tags:
+    - Institutional
+    - Educational
+    - Dictionary
+    - Core
+
+- name: Gaedhilg Reachraidh
+  url: https://gaedhilgreachraidh.blogspot.com/
+  type: blog
+  associated-entities: 
+    - Béaróid
+    - Celtic Languages Discord Server
+  host: Blogspot
+  dialect: 
+    - Ulster
+  note: "Blog on the Irish of Rathlin."
+  tags:
+    - Blog
+    - Dialectal
+    - Rathlin
+    - Niche
+
+- name: Cnuasach Focal as Oirialla
+  url: https://oirialla.blogspot.com/
+  type: blog
+  associated-entities: 
+    - Ciarán Dunbar
+  host: Blogspot
+  dialect: 
+    - Ulster
+  note: "Blog on the extinct Irish of Oriel, south Ulster."
+  tags:
+    - Blog
+    - Dialectal
+    - Oriel
+
+- name: Gaedhilg Thoraí
+  url: https://gaedhilgthoraighe.blogspot.com/
+  type: blog
+  host: Blogspot
+  dialect: 
+    - Ulster
+  associated-entities: 
+    - Béaróid
+  note: "Blog on the Irish of Tory Island."
+  tags:
+    - Blog
+    - Dialectal
+    - Donegal
+    - Tory-Island
+    - Niche
+
+- name: Ramas Bearóide
+  url: https://ramasbearoide.blogspot.com/
+  type: blog
+  host: Blogspot
+  dialect: 
+    - Ulster
+  associated-entities: 
+    - Béaróid
+  note: "Personal blog with material on Rathlin and Tory Irish."
+  tags:
+    - Blog
+    - Dialectal
+    - Donegal
+    - Niche
+
+- name: Rann na Feirste
+  url: https://rannnafeirste.com/
+  type: archive
+  host: self
+  dialect: 
+    - Ulster
+  associated-entities: 
+    - Malachy McKenna
+  note: "Blog on the Irish of Rann na Feirste, County Donegal."
+  tags:
+    - Blog
+    - Dialectal
+    - Donegal
+    - Rann Na Feirste
+
+- name: Gaeilge Iorrais
+  url: https://gaeilgeiorrais.ie/
+  type: blog
+  associated-entities: 
+  host: self
+  dialect: 
+    - Connacht
+  note: "Blog on the Irish of Erris, County Mayo."
+  tags:
+    - Blog
+    - Dialectal
+    - Mayo
+    - Iorras
+
+- name: Irish Language in County Mayo
+  url: https://irishlanguageincountymayo.com/
+  type: blog
+  host: self
+  dialect: 
+    - Connacht
+  associated-entities: 
+  note: "Blog on the Irish of County Mayo."
+  tags:
+    - Blog
+    - Dialectal
+    - Mayo
+
+- name: Gaeigle na Lachan (Mionlach)
+  url: https://gaeiglenalachan.wordpress.com/
+  type: blog
+  host: Wordpress
+  dialect: 
+    - Connacht
+  associated-entities: 
+  note: "Blog on the Irish of Mionlach, County Galway. NB: The title is not a typo, this is a local variant."
+  tags:
+    - Blog
+    - Dialectal
+    - Galway
+    - Mionlach
+
+- name: Cork Irish
+  url: https://corkirish.wordpress.com/
+  type: blog
+  host: Wordpress
+  dialect: 
+    - Munster
+  associated-entities: 
+    - D J Webb
+  note: "Blog on the Irish of Muskerry, County Cork."
+  tags:
+    - Blog
+    - Dialectal
+    - Cork
+
+- name: Muiris.net
+  url: https://muiris.net/
+  type: blog
+  host: self
+  dialect: 
+    - Munster
+  associated-entities: 
+    - Muiris
+  note: "Personal blog on Munster Irish."
+  tags:
+    - Blog
+    - Dialectal
+    - Cork
+    - Cape-Clear
+
+- name: Tony Ó Floinn
+  url: https://tonyofloinn.weebly.com/
+  type: blog
+  host: Weebly 
+  dialect: 
+    - Munster
+  associated-entities: 
+    - Tony Ó Floinn
+  note: "Personal blog on various dialects."
+  tags:
+    - Dialectal
+    - Cork
+    - East-Cork
+
+- name: Fuaimeanna na Gaeilge 
+  url: http://www.fuaimeanna.ie/
+  type: educational-resource
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - Brian Ó Raghallaigh
+    - Dara Ó Cinnéide
+    - Maolra Mac Donnchadha
+    - Áine Ní Bhreisleáin
+  note: "Resource providing information on the phonetics of the major dialects of Irish."
+  tags: 
+    - Phonetics
+    - Audio
+    - Media
+    - Educational
+    - Institutional
+    - Core
+
+- name: Gramadach na Gaeilge 
+  url: https://cuplamilefocal.github.io/gnag/
+  type: educational-resource
+  host: Github
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  note: "Extensive grammar of the Irish language."
+  associated-entities:
+    - Lars Bräsicke
+  tags:
+    - Grammar
+    - Educational
+    - Core
+
+- name: Raidió na Gaeltachta
+  url: https://www.rte.ie/radio/rnag/
+  type: media
+  host: RTÉ
+  dialect: 
+    - Ulster
+    - Munster
+    - Connacht
+  note: "Irish medium radio station with native speaker presenters."
+  associated-entities:
+    - RTÉ
+    - Áine Ní Bhreisleáin
+  tags:
+    - Radio
+    - Institutional
+    - Dialectal
+    - Core
+
+- name: TG4
+  url: https://www.tg4.ie/
+  type: media
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  note: "Irish medium television channel."
+  associated-entities:
+    - Cúla4
+    - Cúla4 Youtube Channel
+    - Molscéal
+    - Ros na Rún Youtube Channel
+  tags:
+    - Television
+    - Institutional
+    - Dialectal
+    - Core
+
+- name: Craic le Gaeilge
+  url: https://discord.gg/eRaUKGDTdq
+  type: community
+  host: Discord
+  associated-entities:
+    - Yunitex
+    - Úna-Minh Kavanagh
+    - An Spideog
+    - An Spideog Tumblr
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  note: "Irish-medium discord community."
+  tags: 
+    - Community
+    - Educational
+    - Dialectal
+    - Social
+    - Online
+
+- name: An Loingseach Youtube Channel
+  url: https://www.youtube.com/user/AnLoingseach
+  type: media
+  host: Youtube
+  associated-entities:
+    - An Loingseach
+  dialect:
+    - Munster
+  note: "Youtube channel teaching authentic Irish."
+  tags:  
+    - Educational
+    - Phonetics
+    - Grammar
+    - Social
+
+- name: An Spideog Youtube Channel
+  url: https://www.youtube.com/@an_spideog
+  type: media
+  host: Youtube
+  associated-entities:
+    - An Spideog
+  dialect: 
+    - Munster
+  note: "Irish channel focused on the Irish language."
+  tags:
+    - Educational
+    - Grammar
+    - Phonetics
+    - Dialectal
+    - Social
+
+- name: An Spideog Tumblr
+  url: https://an-spideog.tumblr.com/
+  type: blog
+  host: Tumblr
+  dialect: 
+    - Munster
+  associated-entities:
+    - An Spideog
+    - Craic le Gaeilge
+    - Celtic Languages Discord Server
+  note: "Tumblr blog focused on Munster Irish."
+  tags:
+    - Blog
+    - Educational
+    - Grammar
+    - Phonetics
+    - Social
+
+- name: Nuacht RTÉ
+  url: https://www.rte.ie/news/nuacht/
+  type: media
+  host: RTÉ
+  note: "Irish-medium news outlet."
+  associated-entities:
+    - RTÉ
+  tags:
+    - News
+    - Institutional
+
+- name: An Ghaeilge Youtube Channel
+  url: https://www.youtube.com/@AnGhaeilge/
+  type: media
+  host: Youtube
+  associated-entities:
+  dialect:
+    - Ulster
+    - Connacht
+    - Munster
+  note: "Youtube channel with various videos on the Irish language."
+  tags: 
+    - Educational
+    - Cultural
+    - Dialectal
+    - Social
+
+- name: Dazpatreg Youtube Channel
+  url: https://www.youtube.com/@dazpatreg
+  type: media
+  host: Youtube
+  dialect:
+    - Connacht
+  associated-entities:
+    - Dazpatreg
+  note: "Youtube channel in Mayo Irish."
+  tags:
+    - Educational
+    - Mayo
+    - Social
+
+- name: Ciarán Dunbar Youtube Channel
+  url: https://www.youtube.com/@ciarandunbar263
+  type: media
+  dialect: 
+    - Ulster
+  host: Youtube
+  associated-entities:
+    - Ciarán Dunbar
+  note: "Youtube channel in Ulster Irish."
+  tags: 
+    - Educational
+    - Dialectal
+    - Social
+    
+- name: Patchy Youtube Channel
+  url: https://www.youtube.com/@patchy642/videos
+  type: media
+  host: Youtube
+  associated-entities:
+    - Patchy
+  dialect: 
+    - Connacht
+  note: "Youtube channel in Mayo Irish."
+  tags: 
+    - Educational
+    - Mayo
+    - Phonetics
+    - Social
+
+- name: Dave Learns Irish Youtube Channel
+  url: https://www.youtube.com/@davelearnsirish
+  type: media
+  host: Youtube
+  dialect: 
+    - Munster
+  associated-entities:
+    - davelearnsirish
+  note: "Youtube channel in Munster Irish."
+  tags: 
+    - Educational
+    - Phonetics
+    - Grammar
+    - Social
+
+- name: Seaghan Sionnach Youtube Channel
+  url: https://www.youtube.com/@smacantsionnaigh
+  type: media
+  host: Youtube
+  dialect: 
+    - Munster
+  associated-entities:
+    - Seaghan Sionnach
+    - Seaghan Mac an tSionnaigh
+  note: "Irish language Youtube channel."
+  tags: 
+    - Cultural
+    - Social
+
+- name: Cumann Chluain Árd
+  url: https://cluainard.ie/
+  type: community
+  host: self
+  dialect: 
+    - Ulster
+  associated-entities:
+    - Foras na Gaeilge
+    - Belfast City Council
+  note: "Irish language community based in Belfast."
+  tags:
+    - Physical
+    - Educational
+    - Community
+    - Cultural
+
+- name: The Spoken Word - Modern Irish Texts - University of Cambridge
+  url: https://www.asnc.cam.ac.uk/spokenword/texts_mirish.php
+  type: archive
+  host: Cambridge University
+  associated-entities:
+    - Cambridge University
+  note: "Archive of Irish texts from the Modern Irish era."
+  tags:
+    - Historical
+    - Institutional
+    - Linguistic
+    - Cultural
+    - Early Modern Irish
+
+- name: An Cúntóir Teanga
+  url: https://ancuntoir.ie/aiseanna/amhrain-2/amhranaiocht-na-scol-2/
+  type: archive
+  host: self
+  dialect: 
+    - Munster
+  associated-entities:
+  note: "Collection of recordings of singers from Corca Dhuibhne."
+  tags: 
+    - Audio
+    - Archival
+    - Music
+
+- name: Cartlann
+  url: https://cartlann.org/
+  type: archive
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+  note: "Archive of Irish literary works."
+  tags: 
+    - Archival
+    - Literature
+    - Historical
+    - Cultural
+
+- name: Ultach.org
+  url: https://eolas38.wixsite.com/ultach/
+  type: educational-resource
+  note: "Selection of learning resources for Ulster Irish."
+  host: Wix
+  associated-entities:
+    - Antain Mac Lochlainn
+    - Céim Ar Aghaidh
+  dialect: 
+    - Ulster
+  tags:
+    - Educational
+    - Media
+    - Dialectal
+
+- name: Lárionad na Gaeilge
+  url: https://snas.ie/
+  type: educational-resource
+  host: self
+  associated-entities:
+  note: "Resource centre for teachers and learners of Irish associated with Maynooth."
+  tags:
+    - Educational
+    - Institutional
+
+- name: Aistriú Litríochta
+  url: https://www.aistriulitriochta.ie/
+  type: archive
+  host: self
+  associated-entities:
+  note: "Information centre for Irish literary translations."
+  tags:
+    - Literature
+    - Cultural
+
+- name: Siopa.ie
+  url: https://www.siopa.ie
+  type: commercial
+  host: self
+  associated-entities:
+  note: "Shop selling Irish medium books and other materials."
+  tags:
+    - Commercial
+    - Literature
+
+- name: AerachAiteachGaelach
+  url: https://www.aerachaiteachgaelach.net/
+  type: community
+  note: "Irish LGBTQ+ group."
+  host: self
+  associated-entities: 
+    - Ciara Ní É
+    - Eoin Mc Evoy
+  tags:
+    - Art
+    - Cultural
+    - Lgbtq
+    - Literature
+    - Music
+    - Online
+
+- name: Cló Iar-Chonnacht
+  url: https://cic.ie/
+  type: commercial
+  note: "Irish language publishing company."
+  host: self
+  associated-entities:
+    - Ainm.ie
+    - Gaois.ie
+    - Deirdre Ní Thuathail
+    - Ferdia Breathnach
+    - Cló Iar-Chonnacht Youtube Channel
+    - Léamh.org
+  tags: 
+    - Literature
+    - Cultural
+    - Music
+
+- name: Cló Iar-Chonnacht Youtube Channel
+  url: https://www.youtube.com/@CloIarChonnacht
+  type: media
+  note: "Youtube channel of the Irish language publishing company Cló Iar-Chonnacht."
+  host: Youtube
+  associated-entities:
+    - Cló Iar-Chonnacht
+    - Deirdre Ní Thuathail
+    - Ferdia Breathnach
+  tags: 
+    - Literature
+    - Cultural
+    - Music
+    - Media
+    - Social
+
+- name: Nós.ie
+  url: https://nos.ie/
+  type: media
+  note: "Irish-medium magazine associated with Cultúrlann McAdam Ó Fiach."
+  host: self
+  associated-entities:
+    - Cultúrlann McAdam Ó Fiach
+  tags:
+    - Cultural
+    - News
+    - Music
+    - Art
+    - Literature
+
+- name: Bealoideas Beo
+  url: https://www.bealoideasbeo.ie/
+  type: archive
+  host: self
+  dialect:
+    - Ulster
+  associated-entities:
+    - National University of Ireland Galway
+    - Dónall Dinny Ó Gallchóir
+  note: "Archive of folklore in Irish, collected in the Donegal Gaeltach and associated with NUIG."
+  tags: 
+    - Literature
+    - Cultural
+    - Historical
+    - Institutional
+
+- name: Gaschaint
+  url: https://gaschaint.ie/
+  type: educational-resource
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - Úna Lawlor
+    - Mairéad Ní Chéide
+    - Peadar Ó Ceannabháin
+    - Carla Ní Chléirigh
+    - Aodán Ó Cearbhaill
+    - Eibhlín Conway
+    - Tadhg Ó Lionaird
+    - Scoil Naithí
+  note: "Resource for parents who wish to speak to their child in Irish."
+  tags:
+    - Educational
+    - Children
+    - Dialectal
+    
+- name: Abair.ie
+  url: https://abair.ie/
+  type: educational-resource
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - TCD
+    - Ailbhe Ní Chasaide
+    - Neasa Ní Chiaráin
+    - John Sloan
+  note: "Speech synthesis tool created at TCD."
+  tags:
+    - Phonetics
+    - Educational
+    - Institutional
+    - Tool
+    - Core
+
+- name: Molscéal
+  url: https://www.molsceal.ie/
+  type: media
+  host: self
+  associated-entities:
+    - TG4
+  dialect:
+    - Ulster
+    - Connacht
+    - Munster
+  note: "Videos in Irish on various topics and current affairs."
+  tags: 
+    - Educational
+    - Cultural
+    - Music
+    - Media
+
+- name: Mar a Dearfá
+  url: https://www.maradearfa.ie/
+  type: educational-resource
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - Máirin Uí Niaidh Youtube Channel
+  note: "A resource for native Irish speakers to improve reading and writing."
+  tags:
+    - Educational
+    - Phonetics
+    - Dialectal
+    - Video
+    - Cultural
+
+- name: Foras na Gaeilge
+  url: https://www.forasnagaeilge.ie/
+  type: institution
+  host: self
+  associated-entities:
+    - Gaois.ie
+    - Téarma.ie
+    - Teanglann
+    - Foclóir
+    - Dublin City University
+    - Trinity College Dublin
+    - Irish Government
+    - Cumann Chluain Árd
+    - Udaras na Gaeltachta
+    - Nua-Chorpas na hÉireann
+    - Conradh na Gaeilge
+    - University College Cork
+    - University College Dublin
+  note: "Institution for the promotion of the Irish language."
+  tags:
+    - Institutional
+
+- name: Máirin Uí Niaidh Youtube Channel
+  url: https://www.youtube.com/@MairinUiNiaidh
+  type: media
+  note: "Youtube channel with educational videos about Irish with a focus on pronunciation."
+  host: Youtube
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - Máirin Uí Niaidh
+    - Mar a Dearfá
+  tags:
+    - Educational
+    - Youtube
+    - Phonetics
+    - Social
+
+- name: CCc Youtube Channel
+  url: https://www.youtube.com/@CCc-sb9oj
+  type: media
+  note: "Youtube channel with many videos regarding Irish."
+  host: Youtube
+  associated-entities:
+    - CCc
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  tags: 
+    - Educational
+    - Media
+    - Literature
+    - Dialectal
+    - Social
+
+- name: Bean Sheáin Uí Mhurchú Youtube Channel
+  url: https://www.youtube.com/@cnuasachanbharraigh
+  type: media
+  host: Youtube
+  associated-entities:
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  note: "Youtube channel with many videos regarding Irish."
+  tags:
+    - Media
+    - Archival
+    - Dialectal
+    - Social
+    
+- name: Céim Ar Aghaidh
+  url: http://www.ceimaraghaidh.ie/
+  type: educational-resource
+  note: "Resource for more advanced learners of Ulster Irish."
+  host: self
+  associated-entities:
+    - Ultach.org
+    - Antain Mac Lochlainn
+  tags: 
+    - Educational
+    - Video
+    - Dialectal
+
+- name: Cadhan Aonair 
+  url: https://cadhan.com/
+  type: commercial
+  host: self
+  associated-entities:
+    - Kevin Scannell
+  note: "Company providing technological services and tools for Irish communities."
+  tags: 
+    - Educational
+    - Commercial
+
+- name: Annexe Dico Irlandais
+  url: http://annexedicoirlandais.free.fr/intro.html
+  type: educational-resource
+  host: self
+  associated-entities:
+    - Lughaidh
+    - Irish Language Forum 
+    - Daltaí na Gaeilge
+  dialect: 
+    - Ulster
+    - Connacht
+    - Munster
+  note: "French resource for the Irish language with focus on dialectal variation."
+  tags:
+    - Educational
+    - Grammar
+    - Dialectal
+
+- name: Discover Irish
+  url: http://www.raymondhickey.com/index_(DI).html#dialects
+  type: educational-resource
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  note: "A resource for learning about the Irish language, its history and dialects."
+  associated-entities: 
+    - Raymond Hickey 
+    - University of Limerick
+  tags:
+    - Educational
+    - Historical
+    - Dialectal
+    - Phonetics
+    
+- name: Corpus of Electronic Texts
+  url: https://celt.ucc.ie/
+  type: archive
+  host: UCC
+  dialect:
+    - Historical
+  associated-entities:
+    - University College Cork
+    - Donnchadh Ó Corráin
+    - Hiram Morgan
+    - Beatrix Färber
+    - eSenchas
+  note: "A large archive of digitised Irish texts going back over 10 centuries. Associated with University College Cork."
+  tags:
+    - Archival
+    - Educational
+    - Historical
+    - Literature
+    - Cultural
+    - Old Irish
+    - Middle Irish
+    - Classical Gaelic
+    - Early Modern Irish
+
+- name: Nascanna.com
+  url: https://nascanna.com/
+  type: commercial
+  host: self
+  associated-entities:
+  note: "Technology company making products associated with Irish."
+  tags:
+    - Commercial
+
+- name: Foclóir an Duinnínigh
+  url: https://focloir.info/
+  type: reference
+  host: self
+  associated-entities:
+    - Patrick S. Dinneen
+  note: "Digitised version of Dineen's Irish dictionary."
+  tags:
+    - Educational
+    - Dictionary
+
+- name: eSenchas
+  url: https://www.asnc.cam.ac.uk/esenchas/
+  type: educational-resource
+  host: Cambridge University
+  dialect:
+    - Historical
+  associated-entities:
+    - Cambridge University
+    - Electronic Dictionary of the Irish Language
+    - CODECS
+    - Corpus of Electronic Texts
+    - Irish Script on Screen
+    - Rebecca Shercliff
+    - Dagmar Wodtko
+    - Máire Ní Mhaonaigh
+  note: "An electronic resource for study of medieval Irish texts, associated with Cambridge University."
+  tags:
+    - Educational
+    - Institutional
+    - Historical
+    - Cultural
+    - Old Irish
+    - Middle Irish
+    - Classical Gaelic
+
+- name: An Carn 
+  url: http://www.ancarn.org/
+  type: community
+  host: self
+  dialect:
+    - Ulster
+  associated-entities:
+  note: "Irish language community based in Carntogher County Derry."
+  tags:
+    - Community
+    - Educational
+    - Cultural
+    - Physical
+
+- name: CODECS
+  url: https://codecs.vanhamel.nl/
+  type: archive
+  host: self
+  dialect:
+    - Historical
+  associated-entities:
+    - eSenchas
+    - A G van Hamel
+    - A G van Hamel Foundation for Celtic Studies
+  note: "An online archive of texts, manuscripts and other materials relevant to Celtic studies. Affiliated with the A. G. van Hamel Foundation for Celtic Studies."
+  tags: 
+    - Educational
+    - Institutional
+    - Archival
+    - Historical
+    - Cultural
+    - Old Irish
+    - Middle Irish
+    - Classical Gaelic
+    - Early Modern Irish
+
+- name: Irish Script on Screen
+  url: https://www.isos.dias.ie/
+  type: educational-resource
+  host: Dublin Institute for Advanced Studies
+  dialect:
+    - Historical
+  associated-entities:
+    - Dublin Institute for Advanced Studies
+    - Dublin City University
+    - eSenchas
+    - Anne Marie O'Brien
+    - Pádraig Ó Macháin
+  note: "Digital repository of Irish manuscripts dating back to the medieval period. Associated with the Dublin Institute for Advanced Studies."
+  tags: 
+    - Educational
+    - Institutional
+    - Archival
+    - Historical
+    - Cultural
+    - Old Irish
+    - Middle Irish
+    - Classical Gaelic
+    - Early Modern Irish
+
+- name: An Leabharlann Blog
+  url: https://anleabharlannblog.wordpress.com/2016/05/17/cuchulainn/
+  type: blog
+  note: "A small blog with children's books in Irish."
+  host: Wordpress
+  associated-entities:
+  tags:
+    - Educational
+    - Blog
+    
+- name: Is Linne Amáireach
+  url: https://islinneamaireach.wordpress.com/
+  type: blog
+  host: Wordpress
+  associated-entities:
+    - Gaeilge Chonamara
+    - Galaxyrocker
+  dialect:
+    - Connacht
+  note: "A small dialectal blog focused on South Connemara Irish."
+  tags:
+    - Blog
+    - Dialectal
+    - Niche
+
+- name: Ros na Rún Youtube Channel
+  url: https://www.youtube.com/@rosnarun96
+  type: media
+  host: Youtube
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - TG4
+  note: "Youtube channel of the Irish-medium TV show Ros na Rún."
+  tags:
+    - Cultural
+    - Media
+    - Social
+
+- name: Uirnéisí Gaedhilge
+  url: https://www3.smo.uhi.ac.uk/oduibhin/
+  type: educational-resource
+  host: Sabhal Mòr Ostaig
+  associated-entities:
+    - Ciarán Ó Duibhín
+    - Sabhal Mòr Ostaig
+  dialect:
+    - Ulster
+  note: "An enormous collection of resources on Ulster Irish compiled by Ciarán Ó Duibhín."
+  tags: 
+    - Blog
+    - Dialectal
+    - Educational
+    - Cultural
+    - Historical
+
+- name: Focail Fholaithe
+  url: http://focailfholaithe.fng.ie/
+  type: reference
+  host: Royal Irish Academy
+  associated-entities:
+    - Royal Irish Academy
+    - University College Dublin
+    - Irish Research Council
+    - Déirdre D’Auria
+    - Eilís Ní Mhearraí
+  dialect: 
+    - Ulster
+    - Munster
+    - Connacht
+  note: "A dictionary of unpublished words of spoken Irish collected in the 20th century."
+  tags:
+    - Historical
+    - Educational
+    - Archival
+    - Cultural
+
+- name: Iontabhas Uí Chadhain
+  url: https://máirtínócadhain.ie/
+  type: archive
+  host: self
+  associated-entities:
+    - Máirtín Ó Cadhain
+    - Seán Ó Cadhain
+    - Fidelma Ní Ghallchobhair
+  dialect:
+    - Connacht
+  note: "A trust dedicated to the life and works of Máirtín Ó Cadhain, including a dictionary of terms."
+  tags:
+    - Educational
+    - Historical
+    - Archival
+    - Cultural
+    - Literature
+
+- name: Blag Nua Gaeilge
+  url: https://blagnuagaeilge.blogspot.com/
+  type: blog
+  associated-entities:
+  host: Blogspot
+  note: "A small blog on various topics written in Irish by persons unknown."
+  tags:
+    - Blog
+    - Niche
+
+- name: Beo!
+  url: http://www.beo.ie/
+  type: media
+  associated-entities:
+  host: self
+  note: "Defunct Irish-medium magazine."
+  tags:
+    - Cultural
+    - Archival
+
+- name: Meon Eile
+  url: https://www.meoneile.ie/
+  type: media
+  note: "Online platform based in Ulster providing videos and articles in Irish. Funded by Screen NI."
+  host: self
+  associated-entities:
+  tags:
+    - Educational
+    - Institutional
+    - News
+    - Music
+    - Art
+    - Cultural
+
+- name: Cúla4 Youtube Channel
+  url: https://www.youtube.com/@Cula4
+  type: media
+  host: Youtube
+  associated-entities:
+    - TG4
+  note: "Youtube Channel posting videos in Irish. Associated with TG4."
+  tags:
+    - Youtube
+    - Cultural
+    - Institutional
+    - Social
+
+- name: Cois Life Soundcloud 
+  url: https://soundcloud.com/cois-life-teoranta
+  type: media
+  host: Soundcloud
+  associated-entities:
+    - Cois Life
+  note: "Soundcloud account of the Cois Life publishing company, with audiobooks in Irish."
+  tags:
+    - Literature
+    - Cultural
+    - Social
+
+- name: Electronic Dictionary of the Irish Language
+  url: https://dil.ie/
+  type: reference
+  host: self
+  dialect:
+    - Historical
+  associated-entities:
+    - Royal Irish Academy
+    - Queen's University Belfast
+    - Cambridge University
+    - Carl Marstrander
+    - E G Quinn
+    - Gregory Toner
+    - eSenchas
+  note: "An extensive dictionary of medieval Irish."
+  tags:
+    - Historical
+    - Cultural
+    - Literature
+    - Old Irish
+    - Middle Irish
+    - Classical Gaelic
+
+- name: Let's Learn Irish
+  url: https://letslearnirish.com/
+  type: community
+  associated-entities:
+  host: self
+  note: "Online learning community based in USA."
+  tags:
+    - Community
+    - Educational
+    - Online
+
+- name: Eanna de Buis Youtube Channel
+  url: https://www.youtube.com/channel/UCmgf123XsOYUA6q2-UverjA
+  type: media
+  host: Youtube
+  associated-entities:
+  dialect:
+    - Ulster
+  note: "Youtube channel with videos on pronunciation of Ulster Irish."
+  tags: 
+    - Youtube
+    - Educational
+    - Social
+
+- name: Buntus na Gaeilge le Barbara Hillers 
+  url: https://bhillers.pages.iu.edu/buntus.html
+  type: educational-resource
+  host: self
+  dialect: 
+    - Ulster
+  associated-entities:
+    - Barbara Hillers
+  note: "Textbook by Associate Professor Barbara Hillers teaching standard Irish with Ulster features."
+  tags:
+    - Educational
+    - Grammar
+
+- name: Cultúrlann Uí Chanáin
+  url: https://culturlann.org/
+  type: community
+  host: self
+  dialect:
+    - Ulster
+  associated-entities:
+  note: "Irish language community based in Derry, County Derry. Contains a useful series of podcasts for beginners."
+  tags: 
+    - Educational
+    - Community
+    - Art
+    - Cultural
+    - Music
+    - Physical
+
+- name: Corpas Irisleabhar na Gaedhilge
+  url: http://irisleabharnagaedhilge.fng.ie/
+  type: archive
+  host: Royal Irish Academy
+  associated-entities:
+    - Royal Irish Academy
+  note: "An archive of Irisleabhar na Gaedhilge, an Irish-medium magazine of historical importance published from 1882 to 1909."
+  tags:
+    - Historical
+    - Cultural
+    - Literary
+
+- name: Duome Irish Notes
+  url: https://duome.eu/tips/en/ga
+  host: Duome
+  associated-entities:
+  type: educational-resource
+  note: "Notes salvaged from the former forums of Irish Duolingo."
+  tags:
+    - Educational
+    
+- name: Tonnmharcaíocht Youtube Channel
+  url: https://www.youtube.com/@tonnmharcaiocht
+  type: media
+  host: Youtube
+  associated-entities:
+  note: "Youtube channel with vlogs in Irish and surfing content."
+  tags:
+    - Youtube
+    - Cultural
+    - Blog
+    - Social
+
+- name: IrishLanguage.ie
+  url: https://irishlanguage.ie
+  type: educational-resource
+  host: self
+  associated-entities:
+  note: "Site with valuable information for learners and collated resource lists. Contains an English translation of An Caighdeán Oifigiúil."
+  tags: 
+    - Educational
+    - Blog
+    - Core
+
+- name: Bainne Youtube Channel
+  url: https://www.youtube.com/@Bainne
+  type: media
+  host: Youtube
+  associated-entities:
+    - Celtic Languages Discord Server
+  dialect: 
+    - Connacht
+  note: "Meme-type videos by a native speaker."
+  tags:
+    - Dialectal
+    - Media
+    - Social
+
+- name: Guth na Maoile Youtube Channel
+  url: https://www.youtube.com/@guthnamaoile6506
+  type: media
+  host: Youtube
+  associated-entities:
+    - Celtic Languages Discord Server
+    - Béaróid
+    - Seamus Óg Donn
+  note: "Videos about Ulster Irish, Scottish Gaelic and their links."
+  dialect: 
+    - Ulster
+  tags:
+    - Dialectal
+    - Media
+    - Educational
+    - Social
+
+- name: Pota Focal
+  url: http://www.potafocal.com/
+  type: reference
+  host: self
+  associated-entities:
+    - Michal Měchura    
+  note: "Online dictionary."
+  tags:
+    - Educational
+    - Dictionary
+    - Core
+
+- name: Réimnigh
+  url: https://www.reimnigh.com/
+  type: educational-resource
+  host: self
+  dialect:
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - Celtic Languages Discord Server
+  note: "A reference tool for the conjugation of various verbs in all major dialects."
+  tags:
+    - Educational
+    - Tool
+    - Core
+
+
+- name: Scéal.ie
+  url: https://sceal.ie/
+  type: media
+  host: self
+  associated-entities:
+  note: "Irish-medium news and other events."
+  tags:
+    - News
+
+- name: Litríocht
+  url: https://www.litriocht.com/
+  type: commercial
+  host: self
+  associated-entities:
+  note: "Irish language bookshop."
+  tags:
+    - Literature
+    - Cultural
+
+- name: Siopa Gaeilge
+  url: https://www.siopagaeilge.ie/
+  type: commercial
+  host: self
+  associated-entities:
+    - Oideas Gael
+  note: "Irish language bookshop. Associated with Oideas Gael."
+  tags:
+    - Literature
+    - Cultural
+
+- name: An Ceathrú Póilí
+  url: https://www.anceathrupoili.com
+  type: commercial
+  associated-entities:
+    - Cultúrlann McAdam Ó Fiach
+  host: self
+  note: "Irish language bookshop."
+  tags:
+    - Literature
+    - Cultural
+
+- name: Conradh na Gaeilge
+  url: https://www.cnag.ie
+  type: institution
+  host: self
+  associated-entities:
+    - Foras na Gaeilge
+    - Udaras na Gaeltachta
+    - Gael Linn
+  note: "Long running institution for the promotion of the Irish language."
+  tags:
+    - Institutional
+    - Educational
+    - Cultural
+
+- name: Foclach
+  url: https://www.foclach.com/
+  type: media
+  host: self
+  associated-entities:
+  note: "Wordle in Irish."
+  tags:
+    - Games
+
+- name: Litreach
+  url: https://www.litreach.ie/
+  type: media
+  host: self
+  associated-entities:
+  note: "A word spelling game."
+  tags:
+    - Games
+
+- name: Udaras na Gaeltachta
+  url: https://udaras.ie/
+  type: institution
+  host: self
+  note: "An Irish state agency responsible for promoting Irish as the community language of Gaeltacht areas."
+  associated-entities:
+    - Irish Government
+    - Foras na Gaeilge
+    - Conradh na Gaeilge
+  tags:
+    - Institutional
+
+- name: Sgéilíní na Finne 
+  url: https://www3.smo.uhi.ac.uk/oduibhin/sf/
+  type: educational-resource
+  host: Sabhal Mòr Ostaig
+  dialect: 
+    - Ulster
+  note: "A booklet of folklore stories with recordings of readings by a native speaker, from the Finn valley of central Donegal."
+  associated-entities:
+    - Aindrias Ó Baoighill 
+  tags: 
+    - Cultural
+    - Folklore
+    - Dialectal
+  
+- name: Nua-Chorpas na hÉireann
+  url: https://corpas.focloir.ie/
+  type: archive
+  host: Focloir.ie
+  dialect: 
+    - Ulster
+    - Munster
+    - Connacht
+  associated-entities:
+    - Focloir.ie
+    - Foras na Gaeilge
+  note: "A searchable corpus of the Irish language from 20th century onwards."
+  tags: 
+    - Corpus
+    - Archival
+    - Cultural
+    - Literary
+    - Educational
+
+- name: Historical Irish Corpus
+  url: http://corpas.ria.ie/
+  type: archive
+  host: Royal Irish Academy
+  note: "A corpus of Irish language texts from 1600-1926."
+  associated-entities:
+    - Royal Irish Academy
+    - Irish Government
+  dialect:
+    - Historical 
+    - Ulster
+    - Connacht
+    - Munster
+    - Leinster
+  tags:
+    - Corpus
+    - Literary
+    - Cultural 
+    - Early Modern Irish
+    - Classical Gaelic
+
+- name: Léamh.org
+  url: https://léamh.org/about-the-project/
+  type: educational-resource
+  host: self
+  note: "A resource for learning to read Early Modern Irish/Classical Gaelic, associated with the University of Connecticut."
+  associated-entities:
+    - Dublin Institute of Advanced Studies
+    - Royal Irish Academy
+    - Ainm.ie
+    - Cló Iar-Chonnacht
+  dialect:
+    - Historical
+  tags:
+    - Early Modern Irish
+    - Classical Gaelic
+    - Cultural
+    - Literary
+    - Research 
+
+- name: Bardic Poetry database
+  url: https://bardic.celt.dias.ie/
+  type: archive
+  note: "An online database of Bardic Poetry."
+  host: Dublin Institute of Advanced Studies
+  dialect: 
+    - Historical
+  associated-entities:
+    - Dublin Institute of Advanced Studies
+    - Trinity College Dublin
+  tags: 
+    - Early Modern Irish
+    - Classical Gaelic
+    - Cultural
+    - Literary 
+    - Research
+
+- name: Georg-August-Universität Göttingen Old Irish Video series
+  url: https://spw.uni-goettingen.de/projects/aig/lng-sga.html
+  type: educational-resource
+  note: "A series of videos teaching about Old Irish."
+  host: Georg-August-Universität Göttingen
+  dialect:
+    - Historical
+  associated-entities:
+    - David Stifter
+    - Aaron Griffith
+    - Georg-August-Universität Göttingen
+  tags: 
+    - Old Irish
+    - Cultural
+    - Research
+    - Educational
+
+
+- name: Old Irish Online
+  url: https://lrc.la.utexas.edu/eieol/iriol
+  type: educational-resource
+  host: University of Texas at Austin
+  note: "A course on Old Irish from the University of Texas at Austin."
+  dialect: 
+    - Historical 
+  associated-entities:
+    - University of Texas
+    - Patrizia de Bernardo Stempel
+    - Jonathan Slocum
+  tags: 
+    - Old Irish
+    - Educational
+    - Cultural
+    - Literary 
+
+- name: Vicipéid
+  url: https://ga.wikipedia.org/wiki/Pr%C3%ADomhleathanach
+  type: educational-resource
+  host: self
+  note: "The Irish language version of Wikipedia. NB: The quality of Irish here can be variable, however I consider Wikipedia important enough to include it."
+  associated-entities:
+  tags:
+    - Educational
+    - Wiki
+
+- name: Oideas Gael
+  url: https://www.oideasgael.ie/
+  type: community
+  host: self
+  dialect: 
+    - Ulster
+  note: "A cultural centre in Gleann Cholm Cille, County Donegal, which hosts Irish language courses each summer."
+  associated-entities:
+    - Siopa Gaeilge
+  tags: 
+    - Physical
+    - Educational
+    - Community
+    - Gaeltacht 
+
+- name: Gael Linn
+  url: https://www.gael-linn.ie/
+  type: institution
+  host: self
+  dialect:
+    - Ulster
+  note: "An organisation which runs events and courses across Ireland, including within the Gaeltacht."
+  associated-entities:
+    - Conradh na Gaeilge
+  tags: 
+    - Educational
+    - Community
+
+- name: An Droichead
+  url: https://www.androichead.com/
+  type: community
+  host: self
+  dialect:
+    - Ulster
+  note: "Irish language centre in Belfast offering classes and events."
+  associated-entities:
+  tags:
+    - Physical
+    - Community
+    - Educational
+
+- name: Cultúrlann McAdam Ó Fiach
+  url: https://www.facebook.com/AnChulturlann/
+  type: community
+  host: Facebook 
+  dialect:
+    - Ulster
+  note: "Irish language organisation in Belfast offering classes and other cultural activities."
+  associated-entities:
+    - Nós.ie
+    - An Ceathrú Póilí
+  tags: 
+    - Physical
+    - Community
+    - Educational
+  
+- name: Turas
+  url: https://turasbelfast.com/
+  type: community
+  host: self
+  dialect: 
+    - Ulster
+  note: "Irish language organisation based in Belfast which offers classes."
+  associated-entities:
+  tags:
+    - Physical
+    - Community
+    - Educational
+
+- name: Aras na nGael
+  url: https://arasnangael.ie/
+  type: community
+  host: self
+  dialect: Connacht
+  note: "Irish language and cultural centre based in Galway community offering classes."
+  associated-entities:
+  tags: 
+    - Physical
+    - Community
+    - Educational
+
+- name: Ionad na Fuiseoige
+  url: https://ionadnafuiseoige.com/
+  host: self
+  type: community
+  dialect:
+    - Ulster
+  note: "Irish language centre based in Belfast. Offers classes, childcare etc."
+  associated-entities:
+  tags: 
+    - Physical
+    - Community
+    - Educational
+    - Children
+ 
+- name: Gaelturas
+  url: https://gaelturas.com/
+  host: self
+  type: community
+  dialect: 
+    - Ulster
+  note: "Organisation offering Irish language activities and courses, based in Gaoth Dobhair, County Donegal."
+  associated-entities:
+  tags: 
+    - Physical
+    - Gaeltacht
+    - Educational
+
+

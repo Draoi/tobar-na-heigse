@@ -1,0 +1,106 @@
+<style>
+  .resource-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+    margin: 1rem 0 2rem;
+  }
+
+  .resource-entry {
+    border: 1px solid #2a2f3a;
+    border-radius: 10px;
+    padding: 12px 14px;
+    background: #1a1f2b;
+  }
+
+  .resource-title {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+
+  .resource-title a {
+    font-weight: 600;
+    font-size: 1.05rem;
+    text-decoration: none;
+  }
+
+  .resource-title a:hover {
+    text-decoration: underline;
+  }
+
+  .resource-note {
+    margin: 6px 0 8px;
+    color: #b7bdc7;
+  }
+
+  .resource-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 6px 0;
+  }
+
+  .dialect-chip,
+  .tag-chip,
+  .host-chip {
+    border-radius: 999px;
+    padding: 2px 8px;
+    font-size: 0.75rem;
+    border: 1px solid #3a4050;
+    background: #22283a;
+    color: #d8dde6;
+  }
+
+  .dialect-ulster {
+    border-color: #c34a4a;
+    background: #c34a4a;
+    color: #ffffff;
+  }
+
+  .dialect-munster {
+    border-color: #2f8f4e;
+    background: #2f8f4e;
+    color: #ffffff;
+  }
+
+  .dialect-leinster {
+    border-color: #d2a31a;
+    background: #d2a31a;
+    color: #ffffff;
+  }
+
+  .dialect-connacht {
+    border-color: #2b6fc1;
+    background: #2b6fc1;
+    color: #ffffff;
+  }
+
+  .dialect-historical,
+  .dialect-historical-dialect {
+    border-color: #000000;
+    background: #000000;
+    color: #ffffff;
+  }
+
+  .tag-chip {
+    background: #242b3d;
+    border-color: #3a4050;
+    color: #d8dde6;
+  }
+
+  .host-chip {
+    background: #1f2d2b;
+    border-color: #2f3f3c;
+    color: #cfe6e2;
+  }
+
+  .tags-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9aa3af;
+    margin-top: 8px;
+  }
+</style>

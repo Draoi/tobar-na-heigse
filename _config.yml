@@ -1,0 +1,11 @@
+title: Tobar na hÉigse
+description: A directory of Irish language resources
+remote_theme: just-the-docs/just-the-docs
+url: "https://draoi.github.io"
+baseurl: "/tobar-na-heigse"
+color_scheme: dark
+search_enabled: true
+back_to_top: false
+footer_content: ""
+plugins:
+  - jekyll-remote-theme

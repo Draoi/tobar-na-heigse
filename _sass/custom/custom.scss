@@ -1,0 +1,62 @@
+.site-title {
+  font-family: "BunwGaelclo", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: 0.02em;
+}
+
+.site-title:hover,
+.site-title:focus {
+  background-image: linear-gradient(
+    -90deg,
+    rgba(255, 217, 102, 0.25) 0%,
+    rgba(255, 217, 102, 0.12) 80%,
+    rgba(255, 217, 102, 0) 100%
+  );
+}
+
+html,
+body,
+.main,
+.main-content-wrap,
+.main-content {
+  background-color: $body-background-color;
+}
+
+.site-footer {
+  display: none;
+}
+
+.search-input,
+.search-input[type="search"],
+.search-input:focus {
+  background-color: $body-background-color !important;
+  color: $body-text-color;
+  border-color: $border-color;
+  -webkit-text-fill-color: $body-text-color;
+}
+
+.search-input::placeholder {
+  color: $nav-child-link-color;
+}
+
+.search-input-wrap,
+.search-results {
+  background-color: $sidebar-color;
+  border-color: $border-color;
+}
+
+.search-result,
+.search-result:hover,
+.search-result.active {
+  background-color: $body-background-color;
+  color: $body-text-color;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+  background-image: linear-gradient(
+    -90deg,
+    rgba(255, 217, 102, 0.25) 0%,
+    rgba(255, 217, 102, 0.12) 80%,
+    rgba(255, 217, 102, 0) 100%
+  );
+}

@@ -1,0 +1,30 @@
+<div class="resource-entry">
+  <div class="resource-title">
+    <a href="{{ include.item.url }}">{{ include.item.name }}</a>
+    {% if include.show_host and include.item.host %}
+    <span class="host-chip">{{ include.item.host }}</span>
+    {% endif %}
+  </div>
+  {% if include.item.note %}
+  <div class="resource-note">{{ include.item.note }}</div>
+  {% endif %}
+  {% if include.item.dialect and include.item.dialect.size > 0 %}
+  <div class="resource-chips">
+    {% for dialect in include.item.dialect %}
+      {% assign dialect_key = dialect | strip | downcase | replace: " ", "-" %}
+      {% assign dialect_url = "/dialects/" | append: dialect_key | append: "/" | relative_url %}
+      <a class="dialect-chip dialect-{{ dialect_key }}" href="{{ dialect_url }}">{{ dialect | strip }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% if include.item.tags and include.item.tags.size > 0 %}
+  <div class="tags-label">Tags</div>
+  <div class="resource-chips">
+    {% for tag in include.item.tags %}
+    {% assign tag_key = tag | strip | downcase | replace: " ", "-" %}
+    {% assign tag_url = "/tags/" | append: tag_key | append: "/" | relative_url %}
+    <a class="tag-chip" href="{{ tag_url }}">{{ tag }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
