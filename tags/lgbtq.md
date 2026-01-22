@@ -2,7 +2,7 @@
 layout: default
 title: Lgbtq
 parent: Browse by tags
-nav_order: 37
+nav_order: 38
 ---
 
 {% include resource-styles.html %}

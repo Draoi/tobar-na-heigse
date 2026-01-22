@@ -2,7 +2,7 @@
 layout: default
 title: East Cork
 parent: Browse by tags
-nav_order: 25
+nav_order: 26
 ---
 
 {% include resource-styles.html %}

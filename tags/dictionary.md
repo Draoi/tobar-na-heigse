@@ -2,7 +2,7 @@
 layout: default
 title: Dictionary
 parent: Browse by tags
-nav_order: 20
+nav_order: 21
 ---
 
 {% include resource-styles.html %}

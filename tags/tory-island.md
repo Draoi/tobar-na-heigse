@@ -2,7 +2,7 @@
 layout: default
 title: Tory Island
 parent: Browse by tags
-nav_order: 61
+nav_order: 62
 ---
 
 {% include resource-styles.html %}

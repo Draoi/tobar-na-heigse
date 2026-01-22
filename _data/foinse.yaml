@@ -2047,4 +2047,28 @@
     - Gaeltacht
     - Educational
 
+- name: Sengoídelc
+  url: https://www.sengoidelc.com/
+  host: self
+  type: archive
+  dialect: 
+    - Historical
+  note: "A collection of excerpts from medieval Irish literature"
+  associated-entities:
+    - Dennis King
+  tags: 
+    - Historical
+    - Literary
+    - Old Irish
 
+- name: Gaelchló
+  url: https://www.gaelchlo.com/
+  host: self
+  type: creative-resource
+  note: "A collection of electronic fonts for writing in the Gaelic type on computers."
+  associated-entities:
+    - Vincent Morley 
+  tags:
+    - Literary
+    - Cultural
+    - Creative

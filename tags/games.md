@@ -2,7 +2,7 @@
 layout: default
 title: Games
 parent: Browse by tags
-nav_order: 31
+nav_order: 32
 ---
 
 {% include resource-styles.html %}

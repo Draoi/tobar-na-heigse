@@ -2,7 +2,7 @@
 layout: default
 title: Literature
 parent: Browse by tags
-nav_order: 40
+nav_order: 41
 ---
 
 {% include resource-styles.html %}

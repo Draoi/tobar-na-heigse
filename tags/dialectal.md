@@ -2,7 +2,7 @@
 layout: default
 title: Dialectal
 parent: Browse by tags
-nav_order: 19
+nav_order: 20
 ---
 
 {% include resource-styles.html %}

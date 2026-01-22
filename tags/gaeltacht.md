@@ -2,7 +2,7 @@
 layout: default
 title: Gaeltacht
 parent: Browse by tags
-nav_order: 29
+nav_order: 30
 ---
 
 {% include resource-styles.html %}

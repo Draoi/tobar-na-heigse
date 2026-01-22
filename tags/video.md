@@ -2,7 +2,7 @@
 layout: default
 title: Video
 parent: Browse by tags
-nav_order: 63
+nav_order: 64
 ---
 
 {% include resource-styles.html %}

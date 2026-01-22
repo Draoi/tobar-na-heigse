@@ -2,7 +2,7 @@
 layout: default
 title: Wiki
 parent: Browse by tags
-nav_order: 64
+nav_order: 65
 ---
 
 {% include resource-styles.html %}

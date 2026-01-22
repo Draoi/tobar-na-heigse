@@ -2,7 +2,7 @@
 layout: default
 title: Early Modern Irish
 parent: Browse by tags
-nav_order: 24
+nav_order: 25
 ---
 
 {% include resource-styles.html %}

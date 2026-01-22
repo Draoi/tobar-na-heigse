@@ -2,7 +2,7 @@
 layout: default
 title: Educational
 parent: Browse by tags
-nav_order: 26
+nav_order: 27
 ---
 
 {% include resource-styles.html %}

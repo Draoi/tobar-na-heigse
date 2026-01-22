@@ -2,7 +2,7 @@
 layout: default
 title: News
 parent: Browse by tags
-nav_order: 46
+nav_order: 47
 ---
 
 {% include resource-styles.html %}

@@ -2,7 +2,7 @@
 layout: default
 title: Music
 parent: Browse by tags
-nav_order: 45
+nav_order: 46
 ---
 
 {% include resource-styles.html %}

@@ -2,7 +2,7 @@
 layout: default
 title: Galway
 parent: Browse by tags
-nav_order: 30
+nav_order: 31
 ---
 
 {% include resource-styles.html %}

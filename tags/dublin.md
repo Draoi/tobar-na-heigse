@@ -2,7 +2,7 @@
 layout: default
 title: Dublin
 parent: Browse by tags
-nav_order: 23
+nav_order: 24
 ---
 
 {% include resource-styles.html %}

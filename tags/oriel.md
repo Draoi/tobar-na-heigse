@@ -2,7 +2,7 @@
 layout: default
 title: Oriel
 parent: Browse by tags
-nav_order: 50
+nav_order: 51
 ---
 
 {% include resource-styles.html %}
