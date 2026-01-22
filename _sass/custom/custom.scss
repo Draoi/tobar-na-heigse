@@ -32,8 +32,18 @@ body,
 }
 
 .site-footer {
-  display: none;
+  display: block;
+  padding: 1rem 0;
+  color: $nav-child-link-color;
+  font-size: 0.85rem;
 }
+
+.site-footer,
+.site-footer p,
+.site-footer .text-grey-dk-100 {
+  color: $body-text-color !important;
+}
+
 
 .search-input,
 .search-input[type="search"],

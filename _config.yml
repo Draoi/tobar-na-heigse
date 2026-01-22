@@ -6,6 +6,6 @@ baseurl: "/tobar-na-heigse"
 color_scheme: dark
 search_enabled: true
 back_to_top: false
-footer_content: ""
+footer_content: "Content licensed <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" rel=\"license\">CC BY-NC 4.0</a>; code licensed <a href=\"https://opensource.org/licenses/MIT\">MIT</a>."
 plugins:
   - jekyll-remote-theme
