@@ -2072,3 +2072,18 @@
     - Literary
     - Cultural
     - Creative
+
+- name: Ulster Irish Digital Corpus
+  url: https://www.ulster.ac.uk/research/topic/modern-languages-linguistics/quality/research-projects/uic
+  note: "A project which aims to digitise and make available to the members of the general public a corpus of Irish language recordings on the basis of collections of tapes collected in the 1960s and 1970s by the late Colmán Ó hUallacháin, among others."
+  host: University of Ulster
+  type: archive
+  dialect:
+    - Ulster
+  associated-entities:
+    - University of Ulster
+    - Colmán Ó hUallacháin
+  tags:
+    - Educational
+    - Cultural
+    - Literary 
