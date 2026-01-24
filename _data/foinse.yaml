@@ -1,3 +1,17 @@
+- name: Focail na n-Ultach
+  url: https://studylib.net/doc/7556796/
+  type: reference
+  note: "A dictionary of Ulster Irish terms."
+  dialect: 
+    - Ulster
+  host: studylib.net
+  associated-entities:
+    - Ciarán Mac Murchaidh
+  tags:
+    - Dialectal
+    - Dictionary
+    - Educational
+
 - name: Gaeilge Chonamara
   url: https://gaeilgechonamara.com/
   type: blog
