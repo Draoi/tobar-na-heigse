@@ -2125,3 +2125,310 @@
     - Educational
     - Children
 
+- name: Tuaisceart Dhún na nGall Language Planning Area
+  url: https://tuaisceartdhunnangall.com/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Cloich Cheann Fhaola Language Planning Area
+  url: https://pleanailteangachloichcheannfhaola.com/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Toraigh Language Planning Area
+  url: https://www.facebook.com/p/Plean%C3%A1il-Teanga-Oile%C3%A1n-Thora%C3%AD-100068885802219/
+  type: community
+  host: Facebook
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Gaoth Dobhair, Rann na Feirste, Anagaire & Loch an Iúir Language Planning Area
+  url: https://mptiarthuaiscirt.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Na Rosa Language Planning Area
+  url: https://pleanailteanganarosann.com/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Árainn Mhór Language Planning Area
+  url: https://arranmoreisland.ie/pleanail-teanga-language-planning/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: An Ghaeltacht Láir Language Planning Area
+  url: https://anghaeltachtlair.com/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Dún na nGall Theas Language Planning Area
+  url: https://bealanphobail.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Maigh Eo Thuaidh Language Planning Area
+  url: https://www.gaeilgeiorrais.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Maigh Eo Thiar Language Planning Area
+  url: https://acaill.com/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Dúiche Sheoigheach & Tuar Mhic Éadaigh Language Planning Area
+  url: https://www.facebook.com/101272748282615/
+  type: community
+  host: Facebook
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Conamara Láir Language Planning Area
+  url: https://www.conamaralair.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: An Cheathrú Rua Language Planning Area
+  url: https://www.ancheathrurua.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Ceantar na nOileán Language Planning Area
+  url: https://www.cnnoilean.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Oileáin Árann Language Planning Area
+  url: https://www.facebook.com/LPTOileainarann/
+  type: community
+  host: facebook.com
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Cois Fharraige Language Planning Area
+  url: https://coisfharraige.ie/pleanail-teanga/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Maigh Cuilinn Language Planning Area
+  url: https://maighcuilinn.net/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Bearna & Cnoc na Cathrach Language Planning Area
+  url: https://gaeilgeabc.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Oirthear Chathair na Gaillimhe Language Planning Area
+  url: https://www.bruachthoir.com/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: An tEachréidh Language Planning Area
+  url: https://gaeltachtaneachreidh.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Ciarraí Thiar Language Planning Area
+  url: https://www.tobardhuibhne.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Munster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Ciarraí Theas Language Planning Area
+  url: https://www.briur.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Munster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Múscraí Language Planning Area
+  url: https://muscrai.org/an-phleanail-teanga/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Munster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Cléire Language Planning Area
+  url: https://cleire.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Munster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Na Déise Language Planning Area
+  url: https://www.deise.ie/gaeltacht-na-ndeise/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Munster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Ráth Chairn & Baile Ghib Language Planning Area
+  url: https://www.gaeltachtnami.ie/
+  type: community
+  host: self
+  note: "Language planning area."
+  dialect:
+    - Connacht
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: Daingean Uí Chúis Language Planning Area
+  url: https://www.facebook.com/DuchasanDaingin/
+  type: community
+  host: Facebook
+  note: "Language planning area."
+  dialect:
+    - Munster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
+
+- name: An Clochán Liath Language Planning Area
+  url: https://www.facebook.com/bsganclochanliath/
+  type: community
+  host: Facebook
+  note: "Language planning area."
+  dialect:
+    - Ulster
+  tags:
+    - Gaeltacht
+    - Language Planning Area
