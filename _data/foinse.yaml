@@ -2114,3 +2114,14 @@
     - Literary
     - Cultural
   
+- name: Irish for Parents 
+  url: https://irishforparents.ie/
+  note: "A site providing resources for parents wishing to learn Irish and transmit it to their children."
+  host: self
+  type: educational-resource
+  associated-entities:
+    - Gaeloideachas
+  tags: 
+    - Educational
+    - Children
+
