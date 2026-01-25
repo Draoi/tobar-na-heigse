@@ -2101,3 +2101,16 @@
     - Educational
     - Cultural
     - Literary 
+
+- name: Leabharlann na nDaoiní Beaga
+  url: https://leabharlann.neocities.org/
+  note: "A collection of useful books, comprising both literature and instructional materials, and other miscellanea."
+  host: Neocities 
+  type: archive
+  associated-entities:
+    - Celtic Languages Discord Server
+  tags: 
+    - Educational
+    - Literary
+    - Cultural
+  
