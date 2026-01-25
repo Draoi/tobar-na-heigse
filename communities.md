@@ -28,6 +28,8 @@ These are communities where you can use your Irish.
 </div>
 
 ## Language Planning Areas
+Here you can find a list of the sites associated with each of the Gaeltacht Language Planning Areas. [More information can be found here.](https://udaras.ie/en/our-language-the-gaeltacht/language-planning/what-is-language-planning/)
+
 {% assign lpa_items = community_items | where_exp: "item", "item.tags contains 'Language Planning Area'" | sort: "name" %}
 <div class="resource-list">
 {% for item in lpa_items %}
