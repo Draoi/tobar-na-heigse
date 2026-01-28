@@ -2433,3 +2433,66 @@
   tags:
     - Gaeltacht
     - Language Planning Area
+
+- name: An Maolchathach
+  url: https://www.instagram.com/an_maolchathach/
+  type: media
+  host: Instagram
+  associated-entities:
+    - Celtic Languages Discord Server
+  note: "Popular social media personality making videos in Munster Irish. Also present on tiktok, youtube."
+  dialect:
+    - Munster
+  tags:
+    - Social
+    - Dialectal
+    - Media
+
+- name: James Donegal Irish"
+  url: https://www.instagram.com/james_donegal_irish/
+  type: media
+  host: Instagram
+  note: "Native speaker of South Donegal Irish making educational videos. Also active on TikTok, Youtube, Facebook."
+  dialect:
+    - Ulster
+  tags: 
+    - Social
+    - Dialectal
+    - Media
+    - Gaeltacht
+    - Native Speaker
+
+- name: Eoin P. Ó Murchú
+  url: https://www.instagram.com/murchadhmor/
+  type: media
+  host: Instagram
+  associated-entities:
+    - Coiste na bhFocal Nua
+    - Na Gaeil Óga
+    - Ciara Ní É
+  note: "Writer, translater, social media personality. Active on most social media."
+  tags: 
+    - Social
+    - Media
+
+- name: Ciara Ní É
+  url: https://www.youtube.com/@miseciara
+  type: media
+  host: Youtube
+  associated-entities:
+    - AerachAiteachGaelach
+    - Eoin P Ó Murchú
+    - Eoin McEvoy
+  note: "Writer, broadcaster, social media personality. Active on most social media."
+  tags: 
+    - Social
+    - Media
+
+- name: Na Spéiríní
+  url: https://bsky.app/profile/did:plc:jondyobgvjeg6fyicof3wjfl/feed/aaajr5774dsoq
+  type: media
+  host: Bluesky
+  note: "A Bluesky feed aggregating posts by many Irish speakers."
+  tags: 
+    - Social 
+    - Media
