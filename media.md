@@ -28,6 +28,8 @@ Various Irish-medium media outlets and accounts.
 </div>
 
 ## Social
+Social media accounts and personalities associated with Irish. As there are many individuals spread across many networks I have generally posted one entry per individual, as it is possible to find their other accounts on other platforms easily.
+
 {% assign social_items = media_items | where_exp: "item", "item.tags contains 'Social'" | sort: "name" %}
 <div class="resource-list">
 {% for item in social_items %}
