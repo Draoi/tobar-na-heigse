@@ -2496,3 +2496,16 @@
   tags: 
     - Social 
     - Media
+
+- name: Leabhar Breac
+  url: https://leabharbreac.com
+  type: commercial
+  host: self
+  note: "A publishing house situated in the Conamara Gaeltacht."
+  associated-entities:
+    - Darach Ó Scolaí
+    - Caomhán Ó Scolaí
+  tags: 
+    - Literary
+    - Conamara
+    
