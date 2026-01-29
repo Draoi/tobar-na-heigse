@@ -2509,3 +2509,15 @@
     - Literary
     - Conamara
     
+- name: LearnRealGaeilge
+  url: https://www.youtube.com/@LearnRealGaeilge
+  type: media
+  host: Youtube
+  note: "A Youtube channel focusing on helping learners acquire nativelike Irish."
+  associated-entities:
+  tags:
+    - Educational
+    - Media
+    - Social
+
+    
