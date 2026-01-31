@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Educational resources
-nav_order: 3
+nav_order: 4
 ---
 
 {% include resource-styles.html %}

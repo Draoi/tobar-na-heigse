@@ -88,7 +88,7 @@
     - Niall Ó Dónaill
   isbn-13:
   language: Irish
-  level: Advanced 
+  level: Advanced
   note: "A grammar of the Irish language compiled by the Christian Brothers. Entirely in Irish."
   dialect:
     - Standard
@@ -96,7 +96,8 @@
     - https://www.forasnagaeilge.ie/wp-content/uploads/2016/06/GGBC_19990-2.pdf
 
 - name: "Learning Irish"
-  author: Micheál Ó Siadhail
+  author:
+    - Micheál Ó Siadhail
   isbn-13: 978-0300064629
   language: English
   level: Intermediate
@@ -120,7 +121,7 @@
   isbn-13: 978-1857917529
   note: "Short Irish-medium textbook describing the Donegal dialect."
   language: Irish
-  level: Intermediate
+  level: Advanced
   dialect:
     - Ulster
 
@@ -128,7 +129,7 @@
   author:
     - Diarmuid Ó Sé
   isbn-13: 978-1857917536
-  note: "Short Irish-medium textbook describing the Donegal dialect."
+  note: "Short Irish-medium textbook describing the Corca Dhuibhne dialect."
   language: Irish
   level: Advanced
   dialect:
@@ -153,6 +154,7 @@
   note: "A foundational spoken-Irish course built around short dialogues and patterned drills, designed for early-stage learners and class/self-study use."
   dialect:
     - Standard
+    - Connacht
   url:
     - https://archive.org/details/buntuscainteceim0000toma
 
@@ -239,10 +241,14 @@
     - Seirbhís Thithe an Oireachtais (Rannóg an Aistriúcháin)
   isbn-13:
   language: Irish
-  level: Reference
+  level: Intermediate
   note: "The official written standard for Irish: spelling and grammatical conventions intended as guidance for formal writing; widely used as a reference rather than a teaching course."
   dialect:
     - Standard
   url:
     - https://data.oireachtas.ie/ie/oireachtas/caighdeanOifigiul/2017/2017-08-03_an-caighdean-oifigiuil-2017_en.pdf
     - https://irishlanguage.ie/an-caighdean-oifigiuil-english-translation/
+  url_label:
+    - Irish (PDF)
+    - English (translation)
+  link_layout: stacked

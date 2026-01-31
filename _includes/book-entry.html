@@ -1,0 +1,77 @@
+<div class="resource-entry book-entry">
+  <div class="resource-title">
+    {% if include.item.url and include.item.url.size > 0 %}
+      <a href="{{ include.item.url[0] }}">{{ include.item.name }}</a>
+    {% else %}
+      <span>{{ include.item.name }}</span>
+    {% endif %}
+  </div>
+
+  {% if include.item.note %}
+  <div class="resource-note">{{ include.item.note }}</div>
+  {% endif %}
+
+  <div class="book-meta">
+    {% if include.item.author %}
+      {% if include.item.author.first %}
+        {% assign author_text = include.item.author | join: ", " %}
+      {% else %}
+        {% assign author_text = include.item.author %}
+      {% endif %}
+      <div><span class="book-meta-label">Author:</span> {{ author_text }}</div>
+    {% endif %}
+
+    {% if include.item.language %}
+      <div><span class="book-meta-label">Language:</span> {{ include.item.language }}</div>
+    {% endif %}
+
+    {% if include.item.level %}
+      <div><span class="book-meta-label">Level:</span> {{ include.item.level }}</div>
+    {% endif %}
+
+    {% if include.item.isbn-13 %}
+      <div><span class="book-meta-label">ISBN-13:</span> {{ include.item.isbn-13 }}</div>
+    {% endif %}
+  </div>
+
+  {% if include.item.dialect and include.item.dialect.size > 0 %}
+  <div class="resource-chips">
+    {% for dialect in include.item.dialect %}
+      {% assign dialect_key = dialect | strip | downcase | replace: " ", "-" %}
+      {% assign dialect_url = "/dialects/" | append: dialect_key | append: "/" | relative_url %}
+      <a class="dialect-chip dialect-{{ dialect_key }}" href="{{ dialect_url }}">{{ dialect | strip }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if include.item.url and include.item.url.size > 0 %}
+  <div class="book-links">
+    <div class="book-meta-label">Links</div>
+    {% assign link_list_class = "book-link-list" %}
+    {% if include.item.link_layout == "stacked" %}
+      {% assign link_list_class = link_list_class | append: " book-link-list--stacked" %}
+    {% endif %}
+    <div class="{{ link_list_class }}">
+      {% for link in include.item.url %}
+        {% assign link_label = nil %}
+        {% if include.item.url_label and include.item.url_label.size >= forloop.index %}
+          {% assign label_index = forloop.index0 %}
+          {% assign link_label = include.item.url_label[label_index] %}
+        {% endif %}
+        <a href="{{ link }}">{{ link_label | default: "Link " | append: forloop.index }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if include.item.audio and include.item.audio.size > 0 %}
+  <div class="book-links">
+    <div class="book-meta-label">Audio</div>
+    <div class="book-link-list">
+      {% for link in include.item.audio %}
+        <a href="{{ link }}">Audio {{ forloop.index }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</div>
