@@ -1,0 +1,248 @@
+- name: "Buntus na Gaeilge"
+  author: 
+    - Barbara Hillers
+    - Bettina Kimpton
+  isbn-13: 
+  language: English
+  level: Beginner
+  note: "A textbook written by Associate Professor Barbara Hillers as a teaching aid for her course, teaching standard Irish with Ulster aspects."
+  dialect:
+    - Standard
+    - Ulster
+  url: 
+    - https://bhillers.pages.iu.edu/buntus.html
+  audio:
+    - https://bhillers.pages.iu.edu/BuntusAudioFiles/
+
+- name: "Teach Yourself Irish"
+  author:
+    - Myles Dillon
+  isbn-13: 978-0-340-05797-1
+  note: "A textbook written by Myles Dillon and Donncha Ó Cróinín teaching dialectal Munster Irish. A later, retypset version of this text exists, however as this was edited to contain errors I have not included it."
+  language: English
+  level: Beginner
+  dialect: 
+    - Munster
+  url: 
+    - https://drive.google.com/file/d/1f3cOHk6-GClmUBkPpw4x85ZtlHoO0nQV/view
+  audio:
+    - https://drive.google.com/file/d/1mXWSqVhYtVCcZa3hG5CGhXz-DIzdyZ_e/view
+
+- name: "Now You're Talking / Irish On Your Own"
+  author: 
+    - Éamonn Ó Dónaill
+  isbn-13: 978-0717123445
+  language: English
+  level: Beginner
+  note: "A textbook combining text units with audio and accompanying video episodes, teaching Ulster Irish."
+  dialect:
+    - Ulster
+  url: 
+    - https://eolas38.wixsite.com/ultach/copy-of-aonad-1
+
+- name: "Modern Irish: A Comprehensive Grammar"
+  author: 
+    - Nancy Stenson
+  isbn-13: 978-1-138-23652-3
+  language: English
+  level: Intermediate
+  note: "A reference grammar of the Irish language compiled as part of a Routledge series. Requires some basic linguistic knowledge."
+  dialect:
+    - Standard
+  url: 
+    - https://ia800307.us.archive.org/29/items/modern-irish-a-comprehensive-grammar/Modern%20Irish%20A%20Comprehensive%20Grammar.pdf
+
+- name: "Gramadach na Gaeilge - English version"
+  author:
+    - Lars Bräsicke
+  isbn-13:
+  language: English
+  level: Intermediate
+  note: "A good reference grammar compiled by an amateur linguist. Unfortunately less detailed than the German version. Requires some basic linguistic knowledge."
+  dialect:
+    - Standard
+    - Ulster
+    - Connacht
+    - Munster
+  url: 
+    - https://cuplamilefocal.github.io/gnag/
+
+- name: "Gramadach na Gaeilge - German version"
+  author:
+    - Lars Bräsicke
+  isbn-13:
+  language: German
+  level: Intermediate
+  note: "A good reference grammar compiled by an amateur linguist. More detailed than the English version. Requires some basic linguistic knowledge."
+  dialect:
+    - Standard
+    - Ulster
+    - Connacht
+    - Munster
+  url: 
+    - https://www.braesicke.de/gramadac.htm
+
+- name: "Graiméar Gaeilge na mBráithre Críostaí"
+  author: 
+    - Liam Ó hAnluain
+    - Niall Ó Dónaill
+  isbn-13:
+  language: Irish
+  level: Advanced 
+  note: "A grammar of the Irish language compiled by the Christian Brothers. Entirely in Irish."
+  dialect:
+    - Standard
+  url: 
+    - https://www.forasnagaeilge.ie/wp-content/uploads/2016/06/GGBC_19990-2.pdf
+
+- name: "Learning Irish"
+  author: Micheál Ó Siadhail
+  isbn-13: 978-0300064629
+  language: English
+  level: Intermediate
+  note: "A textbook teaching Connacht Irish, specifically the Cois Fharraige subdialect."
+  dialect:
+    - Connacht
+  
+- name: "An Teanga Bheo: Gaeilge Chonamara"
+  author:
+    - Séamas Ó Murchú
+  isbn-13: 978-1857917512
+  note: "Short Irish-medium textbook describing the Conamara dialect."
+  language: Irish
+  level: Advanced
+  dialect:
+    - Connacht
+
+- name: "An Teanga Bheo: Gaeilge Uladh"
+  author:
+    - Dónall P. Ó Baoill
+  isbn-13: 978-1857917529
+  note: "Short Irish-medium textbook describing the Donegal dialect."
+  language: Irish
+  level: Intermediate
+  dialect:
+    - Ulster
+
+- name: "An Teanga Bheo: Corca Dhuibhne"
+  author:
+    - Diarmuid Ó Sé
+  isbn-13: 978-1857917536
+  note: "Short Irish-medium textbook describing the Donegal dialect."
+  language: Irish
+  level: Advanced
+  dialect:
+    - Munster
+ 
+- name: "An Teanga Bheo: Gaeilge Chléire"
+  author:
+    - Breandán Ó Buachalla
+  isbn-13: 978-0946452989
+  note: "Short Irish-medium textbook describing the Cléire dialect."
+  language: Irish
+  level: Advanced
+  dialect:
+    - Munster
+ 
+- name: "Buntús Cainte"
+  author:
+    - Tomás Ó Domhnalláin
+  isbn-13: 978-1857910650
+  language: Irish
+  level: Beginner
+  note: "A foundational spoken-Irish course built around short dialogues and patterned drills, designed for early-stage learners and class/self-study use."
+  dialect:
+    - Standard
+  url:
+    - https://archive.org/details/buntuscainteceim0000toma
+
+- name: "Gaeilge gan Stró! - Beginners Level"
+  author:
+    - Éamonn Ó Dónaill
+  isbn-13: 978-0956361448
+  language: English
+  level: Beginner
+  note: "A beginner-friendly multimedia coursebook that introduces everyday Irish through graded units and practical communicative scenarios."
+  dialect:
+    - Standard
+
+- name: "Gaeilge gan Stró! - Lower Intermediate Level"
+  author:
+    - Éamonn Ó Dónaill
+  isbn-13: 978-0956361417
+  language: English
+  level: Intermediate
+  note: "A follow-on coursebook for learners with basic Irish, extending vocabulary, structures, and fluency through structured units."
+  dialect:
+    - Standard
+
+- name: "Gramadach gan Stró!"
+  author:
+    - Éamonn Ó Dónaill
+  isbn-13: 978-0956361493
+  language: Irish
+  level: Intermediate
+  note: "An Irish-medium grammar workbook/course that consolidates core structures with explanations and exercises, aimed at improving accuracy and idiomatic usage."
+  dialect:
+    - Standard
+  url:
+    - https://catalogue.nli.ie/Record/vtls000509603
+
+- name: "Colloquial Irish: The Complete Course for Beginners"
+  author:
+    - Thomas Ihde
+    - Máire Ní Neachtain
+    - Roslyn Blyn-LaDrew
+    - John Gillen
+  isbn-13: 978-1032077376
+  language: English
+  level: Beginner
+  note: "A self-study oriented course with dialogues and structured lessons."
+  dialect:
+    - Connacht
+
+- name: "Colloquial Irish 2: The Next Step in Language Learning"
+  author:
+    - Tomás Ó hÍde
+    - Máire Ní Neachtain
+    - Roslyn Blyn-LaDrew
+    - John Gillen
+  isbn-13: 978-0367203016
+  language: English
+  level: Intermediate
+  note: "A continuation volume with more complex texts/dialogues."
+  dialect:
+    - Connacht
+
+- name: "Basic Irish: A Grammar and Workbook"
+  author:
+    - Nancy Stenson
+  isbn-13: 978-0415410410
+  language: English
+  level: Beginner
+  note: "A structured grammar-and-exercises workbook designed to take learners from early basics to intermediate level."
+  dialect:
+    - Standard
+
+- name: "Intermediate Irish: A Grammar and Workbook"
+  author:
+    - Nancy Stenson
+  isbn-13: 978-0415410427
+  language: English
+  level: Intermediate
+  note: "A follow-on workbook that develops intermediate structures and patterns."
+  dialect:
+    - Standard
+
+- name: "An Caighdeán Oifigiúil (2017)"
+  author:
+    - Seirbhís Thithe an Oireachtais (Rannóg an Aistriúcháin)
+  isbn-13:
+  language: Irish
+  level: Reference
+  note: "The official written standard for Irish: spelling and grammatical conventions intended as guidance for formal writing; widely used as a reference rather than a teaching course."
+  dialect:
+    - Standard
+  url:
+    - https://data.oireachtas.ie/ie/oireachtas/caighdeanOifigiul/2017/2017-08-03_an-caighdean-oifigiuil-2017_en.pdf
+    - https://irishlanguage.ie/an-caighdean-oifigiuil-english-translation/
