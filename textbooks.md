@@ -67,7 +67,7 @@ Textbooks for learning Irish.
 </div>
 
 ## Advanced
-{% assign items = site.data.leabhair | where_exp: "item", "item.level == 'Advanced' or item.level == 'Reference'" | sort: "name" %}
+{% assign items = site.data.leabhair | where: "level", "Advanced" | sort: "name" %}
 <div class="resource-list">
 {% for item in items %}
   {% include book-entry.html item=item %}
